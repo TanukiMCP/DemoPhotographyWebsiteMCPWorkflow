@@ -30,8 +30,8 @@ This project showcases how to break down complex web development into manageable
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcp-portfolio-builder.git
-cd mcp-portfolio-builder
+git clone https://github.com/TanukiMCP/DemoPhotographyWebsiteMCPWorkflow.git
+cd DemoPhotographyWebsiteMCPWorkflow
 
 # Install dependencies
 npm install
@@ -386,7 +386,7 @@ We welcome contributions to improve this demo system!
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/mcp-portfolio-builder.git
+git clone https://github.com/TanukiMCP/DemoPhotographyWebsiteMCPWorkflow.git
 
 # Create a feature branch
 git checkout -b feature/your-improvement
@@ -421,12 +421,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 💬 **Discussions**: Use GitHub Discussions for questions and ideas
 - 🐛 **Issues**: Report bugs or request features via GitHub Issues
-- 🐦 **Twitter**: Follow [@yourusername](https://twitter.com/yourusername) for updates
-- 📧 **Email**: Contact [your.email@domain.com](mailto:your.email@domain.com)
+- 🐦 **Twitter**: Follow updates on social media
+- 📧 **Email**: Contact via GitHub Issues for questions
 
 ---
 
 **⭐ If this demo helped you understand AI-driven development, please star the repository!**
 
-*Built with ❤️ using MCP Tools and systematic AI development*#   D e m o P h o t o g r a p h y W e b s i t e M C P W o r k f l o w  
- 
+*Built with ❤️ using MCP Tools and systematic AI development*
