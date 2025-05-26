@@ -133,4 +133,6 @@ Reference the specific success criteria for Task [TASK_NUMBER] in demo_tasklist.
 **End Goal:** 
 Complete Task [TASK_NUMBER] as part of building a stunning, professional photography portfolio that demonstrates the power of systematic, LLM-driven development using MCP tools.
 
+DO NOT FORGET TO MARK WHAT YOU HAVE COMPLETED WHEN YOU HAVE COMPLETED IT AND UPDATE THE TODOLIST TO PASS CONTEXT TO THE NEXT AGENT FOR THE NEXT TASK IN SEQUENCE
+
 Focus entirely on **Task [TASK_NUMBER]: [TASK_NAME]** while maintaining consistency with Elena's brand identity and the overall project vision.
